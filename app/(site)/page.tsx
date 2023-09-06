@@ -12,7 +12,7 @@ export default function Home() {
   overlow-y-auto
   "
     >
-      <Header></Header>
+      <Header>Header</Header>
     </div>
   );
 }
